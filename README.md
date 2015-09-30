@@ -17,3 +17,5 @@ Some issues of note:
      version for those. Bootstrap was also a CDN.
   2. Didn't use angularUI for any components after I realized that besides using angular-bootstrap, there was no real
      purpose for it being used.
+  3. Github commit history is a bit strange because I wasn't quite sure how to deliver the finished product till it       was too late.
+  4. NPM was used almost exclusively because of Gulp. 
